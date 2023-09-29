@@ -1,0 +1,6 @@
+/Users/djelassilenny/Projects/TD2/TD2/bin/Debug/TD2.exe
+/Users/djelassilenny/Projects/TD2/TD2/bin/Debug/TD2.pdb
+/Users/djelassilenny/Projects/TD2/TD2/obj/Debug/TD2.csproj.AssemblyReference.cache
+/Users/djelassilenny/Projects/TD2/TD2/obj/Debug/TD2.csproj.CoreCompileInputs.cache
+/Users/djelassilenny/Projects/TD2/TD2/obj/Debug/TD2.exe
+/Users/djelassilenny/Projects/TD2/TD2/obj/Debug/TD2.pdb
